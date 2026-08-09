@@ -385,9 +385,9 @@ export default {
       },
       end: {
         9180 : "END",
-        18290 : "Yoshino End",
+        18289 : "Yoshino End",
         27528 : "Mako End",
-        28289 : "Murasame End",
+        38389 : "Murasame End",
         48182 : "Rena End",
         53480 : "Koharu End",
         55420 : "Roka End",
